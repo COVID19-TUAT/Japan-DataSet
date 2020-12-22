@@ -20,7 +20,7 @@ If data(positiveIncrease_release, positiveIncrease_onset, etc.) hasn't values, i
   - inspection
     - date
     - data
-  - consulations
+  - consultations
     - date
     - data
   - population
