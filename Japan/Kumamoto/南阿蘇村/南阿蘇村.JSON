@@ -1,0 +1,45 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2020-10-15",
+        "2020-10-16",
+        "2020-10-17",
+        "2020-10-18",
+        "2020-10-19"
+      ],
+      "data": [
+        4,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 11503
+  },
+  "parent": [
+    "Kumamoto"
+  ],
+  "children": []
+}

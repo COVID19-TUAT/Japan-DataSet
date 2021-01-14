@@ -1,0 +1,37 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2021-01-06"
+      ],
+      "data": [
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 33690
+  },
+  "parent": [
+    "Hyogo"
+  ],
+  "children": []
+}
