@@ -1,0 +1,59 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2020-10-28",
+        "2020-10-29",
+        "2020-10-30",
+        "2020-10-31",
+        "2020-11-01",
+        "2020-11-02",
+        "2020-11-03",
+        "2020-11-04",
+        "2020-11-05",
+        "2020-11-06",
+        "2020-11-07",
+        "2020-11-08"
+      ],
+      "data": [
+        1,
+        1,
+        0,
+        2,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 12847
+  },
+  "parent": [
+    "Okayama"
+  ],
+  "children": []
+}

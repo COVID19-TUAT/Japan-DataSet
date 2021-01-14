@@ -1,0 +1,37 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2020-04-07 08:00:00"
+      ],
+      "data": [
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 16742
+  },
+  "parent": [
+    "Ehime"
+  ],
+  "children": []
+}

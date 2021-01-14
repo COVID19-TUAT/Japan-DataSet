@@ -1,0 +1,51 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2021-01-06",
+        "2021-01-07",
+        "2021-01-08",
+        "2021-01-09",
+        "2021-01-10",
+        "2021-01-11",
+        "2021-01-12",
+        "2021-01-13"
+      ],
+      "data": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 33690
+  },
+  "parent": [
+    "Hyogo"
+  ],
+  "children": []
+}

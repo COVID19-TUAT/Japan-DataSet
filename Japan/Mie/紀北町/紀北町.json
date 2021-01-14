@@ -1,0 +1,39 @@
+{
+  "data": {
+    "positiveIncreaseRelease": {
+      "date": [
+        "2020-07-25",
+        "2020-07-26"
+      ],
+      "data": [
+        1,
+        1
+      ]
+    },
+    "positiveIncreaseOnset": {
+      "date": [],
+      "data": []
+    },
+    "deathIncrease": {
+      "date": [],
+      "data": []
+    },
+    "hospitalizedCurrently": {
+      "date": [],
+      "data": []
+    },
+    "inspection": {
+      "date": [],
+      "data": []
+    },
+    "consultations": {
+      "date": [],
+      "data": []
+    },
+    "population": 16338
+  },
+  "parent": [
+    "Mie"
+  ],
+  "children": []
+}
