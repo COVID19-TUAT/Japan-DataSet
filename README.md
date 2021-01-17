@@ -5,13 +5,13 @@ We have already unified that in Japan! Now, we attempt to create unified data fo
 Every data is stored by the same JSON format. Item "date", "data", "parent" and "child" have values in list.  
 If data(positiveIncrease_release, positiveIncrease_onset, etc.) hasn't values, it has empty list.
 - data
-  - positiveIncrease_release
+  - positiveRelease
     - date
     - data
-  - positiveIncrease_onset
+  - positiveOnset
     - date
     - data
-  - deathIncrease
+  - death
     - date
     - data
   - hospitalizedCurrently
@@ -25,17 +25,17 @@ If data(positiveIncrease_release, positiveIncrease_onset, etc.) hasn't values, i
     - data
   - population
 - parent
-- child
+- children
   
 Description for each item　is shown below.
-- positiveIncrease_release: today's the number of new positive cases (**reported date base**)
-- positiveIncrease_onset: today's the number of new positive cases (**onset date base**)
-- deathIncrease: today's the number of new death cases
+- positiveRelease: today's the number of new positive cases (**reported date base**)
+- positiveOnset: today's the number of new positive cases (**onset date base**)
+- death: today's the number of new death cases
 - hospitalizedCurrently: currently hospitalization 
 - inspection: today's the number of inspections
 - consultations: today's the number of consultaions to Coronavirus Consultation Center
 - population: population in the area  
               (if we can't get population, the value is null)
 - parent: list of parent directory
-- child: list of subdirectory
+- children: list of subdirectory
 
